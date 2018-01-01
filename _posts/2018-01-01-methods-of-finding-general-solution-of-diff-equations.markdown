@@ -10,9 +10,9 @@ tags: [Mathematics,Science,Calculus]
 Let us consider the given differential equation is
   > y'' + p(t)y' + q(t)y = g(t) ----------- (i)
 
-If `g(t) = 0`, then it becomes homogenous differential equation. Here, we are going to discuss about the process of finding general solution of non homogenous equations i.e. `g(t) != 0` by the method of undetermined coefficients.
+If `g(t) = 0`, then it becomes homogenous differential equation. Here, we are going to discuss about the process of finding general solution of non homogenous equations i.e. `g(t) = 0` by the method of undetermined coefficients.
 
-The differential equation is: `y'' + p(t)y' + q(t)y = g(t)`, where g(t) can be in the following form:
+The differential equation is: `y''+p(t)y'+q(t)y=g(t)`, where g(t) can be in the following form:
 - g(t) can be in algebric form or can be polynomial.
 - g(t) can be in exponential form.
 - g(t) can be in trigonometric form i.e. in form of sint or cost.
@@ -24,7 +24,7 @@ For example:
 
 This can be more clear by the examples of given below:
 - Find general solution of the given differential equations :
-  > `y''+2y'+5y = 3cos2t` ---- (i)
+  > `y''+2y'+5y=3cos2t` ---- (i)
 
   First we consider homogenous equation:
   > `y''+2y'+5y=0`
